@@ -1,36 +1,144 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# .upptimerc.yml
+owner: One-Gloucestershire
+repo: WebsiteMonitor
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Aspen Medical Practice
+    url: https://www.aspenmedicalpractice.nhs.uk/
+  - name: Beeches Green Surgery
+    url: https://beechesgreensurgery.co.uk/
+  - name: Berkeley Place Surgery
+    url: https://berkeleyplacesurgery.nhs.uk/
+  - name: Blakeney Surgery
+    url: https://www.blakeneysurgery.nhs.uk/
+  - name: Brockworth Surgery
+    url: https://brockworthsurgery.nhs.uk/
+  - name: Cam & Uley Family Practice
+    url: https://cam-and-uley.nhs.uk/
+  - name: Chipping Campden Surgery
+    url: https://www.chippingcampdensurgery.co.uk/
+  - name: Churchdown Surgery
+    url: https://www.churchdownsurgery.co.uk/
+  - name: Church Street Medical Practice
+    url: https://www.inspire-healthcare.co.uk/church-street-medical/
+  - name: Cirencester Health Group
+    url: https://cirencesterhealthgroup.co.uk/
+  - name: Cleevelands Medical Centre
+    url: https://cleevelandsmedicalcentre.org.uk/
+  - name: Coleford Medical Practice
+    url: https://colefordmedicalpractice.nhs.uk/
+  - name: Cotswold Medical Practice
+    url: https://www.cotswoldmedicalpractice.nhs.uk/
+  - name: Culverhay Surgery
+    url: https://www.culverhaysurgery.com/
+  - name: Dockham Road Surgery
+    url: https://dockhamsurgery.nhs.uk/
+  - name: Drybrook Surgery
+    url: https://www.drybrooksurgery.nhs.uk/
+  - name: Five Valleys Medical
+    url: https://fivevalleysmedicalpractice.co.uk/
+  - name: Forest Health Centre
+    url: https://www.foresthealthcentre.nhs.uk/
+  - name: Frithwood Surgery
+    url: https://frithwoodsurgery.nhs.uk/
+  - name: Gloucester Health Access Centre
+    url: https://www.ghac.co.uk/
+  - name: Hilary Cottage Surgery
+    url: https://fairfordsurgery.co.uk/
+  - name: Hucclecote Surgery
+    url: https://www.hucclecotesurgery.co.uk/
+  - name: Kingsholm Surgery
+    url: https://www.kingsholmsurgery.co.uk/
+  - name: Longlevens Surgery
+    url: https://www.longlevens-surgery.nhs.uk/
+  - name: Mann Cottage Surgery
+    url: https://www.moretondoctors.nhs.uk/
+  - name: May Lane Surgery
+    url: https://maylanesurgery.co.uk/
+  - name: Minchinhampton Surgery
+    url: https://www.minchsurgery.nhs.uk/
+  - name: Mitcheldean Surgery
+    url: https://www.mitcheldeansurgery.co.uk/
+  - name: Mythe Medical Practice
+    url: https://www.mythemedical.co.uk/
+  - name: Newent Family Practice
+    url: https://www.newentdoctors.nhs.uk/
+  - name: Overton Park Surgery
+    url: https://overtonparksurgery.com/
+  - name: Painswick Surgery
+    url: https://www.painswicksurgery.nhs.uk/
+  - name: Partners in Health
+    url: https://www.partnersinhealthgloucester.nhs.uk/
+  - name: Phoenix Health Group
+    url: https://phoenixhealthgroup.co.uk/
+  - name: Prices Mill Surgery
+    url: https://pricesmill.co.uk/
+  - name: Quedgeley Medical Centre
+    url: https://www.quedgeleymedicalcentre.nhs.uk/
+  - name: Rendcomb Surgery
+    url: https://www.rendcombsurgery.co.uk/
+  - name: Rosebank Health
+    url: https://rosebankhealth.nhs.uk/
+  - name: Rowcroft Medical Centre
+    url: https://rowcroftmc.nhs.uk/
+  - name: Royal Crescent Surgery
+    url: https://royalcrescentsurgery.nhs.uk/
+  - name: Royal Well Surgery
+    url: https://www.royalwell.co.uk/
+  - name: Severnbank Surgery
+    url: https://www.severnbanksurgery.co.uk/
+  - name: Severnside Medical Practice
+    url: https://www.severnsidemedicalpractice.co.uk/
+  - name: Sixways Clinic
+    url: https://sixwaysclinic.co.uk/
+  - name: Staunton & Corse Surgery
+    url: https://stauntonsurgery.co.uk/
+  - name: St Catherine’s Surgery
+    url: https://www.inspire-healthcare.co.uk/st-catherine-s-surgery/
+  - name: St George’s Surgery
+    url: https://www.st-georgessurgery.co.uk/
+  - name: Stoke Road Surgery
+    url: https://www.stokeroadsurgery.co.uk/
+  - name: Stonehouse Health Clinic
+    url: https://stonehousehealthclinic.nhs.uk/
+  - name: Stow Surgery
+    url: https://stowsurgery.co.uk/
+  - name: The Alney Practice
+    url: https://www.thealneypractice.co.uk/
+  - name: The Chipping Surgery
+    url: https://www.thechippingsurgery.co.uk/
+  - name: The Hadwen Medical Practice
+    url: https://hadwenhealth.co.uk/
+  - name: The Leckhampton Surgery
+    url: https://leckhamptonsurgery.co.uk/
+  - name: The Lydney Practice
+    url: https://www.lydneypractice.nhs.uk/
+  - name: The Willow Tree Practice
+    url: https://thewillowtreepractice.co.uk/
+  - name: Underwood Surgery
+    url: https://www.underwoodsurgery.co.uk/
+  - name: Upper Thames Medical Group
+    url: https://www.inspire-healthcare.co.uk/the-park-surgery/
+  - name: West Cheltenham Medical
+    url: https://www.inspire-healthcare.co.uk/west-cheltenham-medical/
+  - name: Weston House Practice
+    url: https://westonhousepractice.nhs.uk/
+  - name: White House Surgery
+    url: https://www.whitehousesurgery.co.uk/
+  - name: Winchcombe Medical Centre
+    url: https://winchcombemedical.nhs.uk/
+  - name: Yorkleigh Surgery
+    url: https://yorkleighsurgery.co.uk/
+  - name: Yorkley & Bream Practice
+    url: https://www.yorkleyhealthcentre.nhs.uk/
 
+# Optional: Add Microsoft Teams alerts (replace with your real webhook)
+notifications:
+  - type: msteams
+    url: https://outlook.office.com/webhook/your-incoming-webhook-url-here
+
+# Optional: nicer status website title
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  name: Gloucestershire GP Practice Websites
+  introMessage: Real-time uptime monitoring for all Gloucestershire GP practice websites
+  theme: night
