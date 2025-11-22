@@ -139,6 +139,8 @@ notifications:
 
 # Optional: nicer status website title
 status-website:
-  name: Gloucestershire GP Practice Websites
-  introMessage: Real-time uptime monitoring for all Gloucestershire GP practice websites
-  theme: night
+  baseUrl: /WebsiteMonitor/  # Important! For subpath in org repos like yours (https://org.github.io/repo/)
+  logoUrl: https://raw.githubusercontent.com/one-gloucestershire/WebsiteMonitor/gh-pages/logo.svg  # Optional: Add your logo
+  name: Gloucestershire GP Practice Websites  # Matches your page title
+  introTitle: "**Don't have a healthy website?** Let us help."
+  introMessage: Real-time uptime monitoring for all Gloucestershire GP practice websites.
