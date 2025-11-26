@@ -135,7 +135,7 @@ sites:
 # Optional: Add Microsoft Teams alerts (replace with your real webhook)
 notifications:
   - type: msteams
-    url: https://outlook.office.com/webhook/your-----incoming-webhook-url-here
+    url: https://nhs.webhook.office.com/webhookb2/8a5be50c-7efb-40b2-baa4-1b8fe9b8c551@37c354b2-85b0-47f5-b222-07b48d774ee3/IncomingWebhook/87e80e3881fb44ee9457781c29fe514c/133d7675-b835-41c5-9f2d-4e9414abaade/V25AaXop_5-Z1hRbalmg7VKIVeZXI5uG73eVWEnsAP3wc1
 
 # Optional: nicer status website title
 status-website:
