@@ -157,7 +157,7 @@
     "time": 820,
     "timeDay": 892,
     "timeWeek": 835,
-    "timeMonth": 820,
+    "timeMonth": 815,
     "timeYear": 820,
     "dailyMinutesDown": {}
   },
@@ -184,7 +184,7 @@
     "url": "https://cleevelandsmedicalcentre.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/cleevelandsmedicalcentre.org.uk.ico",
     "slug": "cleevelands-medical-centre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -823,7 +823,7 @@
     "time": 717,
     "timeDay": 647,
     "timeWeek": 679,
-    "timeMonth": 715,
+    "timeMonth": 711,
     "timeYear": 717,
     "dailyMinutesDown": {}
   },
