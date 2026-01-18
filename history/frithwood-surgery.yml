@@ -1,7 +1,7 @@
 url: https://frithwoodsurgery.nhs.uk/
-status: up
-code: 200
-responseTime: 678
-lastUpdated: 2026-01-17T23:03:22.318Z
+status: down
+code: 504
+responseTime: 10581
+lastUpdated: 2026-01-18T19:25:33.664Z
 startTime: 2025-11-22T00:07:24.079Z
 generator: Upptime <https://github.com/upptime/upptime>
