@@ -1,7 +1,7 @@
 url: https://berkeleyplacesurgery.nhs.uk/
-status: up
-code: 200
-responseTime: 979
-lastUpdated: 2026-01-17T23:03:02.843Z
+status: down
+code: 504
+responseTime: 11017
+lastUpdated: 2026-01-18T19:19:48.888Z
 startTime: 2025-11-22T00:07:05.890Z
 generator: Upptime <https://github.com/upptime/upptime>
