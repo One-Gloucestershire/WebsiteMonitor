@@ -1,7 +1,7 @@
 url: https://www.yorkleyhealthcentre.nhs.uk/
-status: up
-code: 200
-responseTime: 1064
-lastUpdated: 2026-01-17T23:04:18.553Z
+status: down
+code: 500
+responseTime: 353
+lastUpdated: 2026-01-18T21:57:49.167Z
 startTime: 2025-11-22T00:08:19.671Z
 generator: Upptime <https://github.com/upptime/upptime>
