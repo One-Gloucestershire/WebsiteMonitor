@@ -1,7 +1,7 @@
 url: https://www.cotswoldmedicalpractice.nhs.uk/
-status: up
-code: 200
-responseTime: 1166
-lastUpdated: 2026-01-17T23:03:15.270Z
+status: down
+code: 500
+responseTime: 592
+lastUpdated: 2026-01-18T13:00:34.254Z
 startTime: 2025-11-22T00:07:17.120Z
 generator: Upptime <https://github.com/upptime/upptime>
