@@ -1,7 +1,7 @@
 url: https://www.moretondoctors.nhs.uk/
-status: up
-code: 200
-responseTime: 1100
-lastUpdated: 2026-02-19T23:08:23.268Z
+status: down
+code: 500
+responseTime: 596
+lastUpdated: 2026-02-20T14:25:29.974Z
 startTime: 2025-11-22T00:07:31.657Z
 generator: Upptime <https://github.com/upptime/upptime>
