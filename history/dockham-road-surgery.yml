@@ -1,7 +1,7 @@
 url: https://dockhamsurgery.nhs.uk/
-status: up
-code: 200
-responseTime: 552
-lastUpdated: 2026-03-01T23:04:17.247Z
+status: down
+code: 500
+responseTime: 418
+lastUpdated: 2026-03-02T08:02:43.433Z
 startTime: 2025-11-22T00:07:19.747Z
 generator: Upptime <https://github.com/upptime/upptime>
