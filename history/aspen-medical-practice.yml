@@ -1,7 +1,7 @@
 url: https://www.aspenmedicalpractice.nhs.uk/
-status: up
-code: 200
-responseTime: 1350
-lastUpdated: 2026-04-09T23:14:26.593Z
+status: down
+code: 500
+responseTime: 368
+lastUpdated: 2026-04-10T06:15:23.749Z
 startTime: 2025-11-22T00:07:02.902Z
 generator: Upptime <https://github.com/upptime/upptime>
