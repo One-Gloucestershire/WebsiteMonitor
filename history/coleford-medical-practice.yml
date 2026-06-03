@@ -1,7 +1,7 @@
 url: https://colefordmedicalpractice.nhs.uk/
-status: up
-code: 200
-responseTime: 1421
-lastUpdated: 2026-06-03T03:52:39.129Z
+status: down
+code: 403
+responseTime: 606
+lastUpdated: 2026-06-03T23:01:33.284Z
 startTime: 2025-11-22T00:07:16.334Z
 generator: Upptime <https://github.com/upptime/upptime>
