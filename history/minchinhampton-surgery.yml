@@ -1,7 +1,7 @@
 url: https://www.minchsurgery.nhs.uk/
-status: up
-code: 200
-responseTime: 1461
-lastUpdated: 2026-06-03T23:32:37.145Z
+status: down
+code: 403
+responseTime: 320
+lastUpdated: 2026-06-04T21:02:16.240Z
 startTime: 2025-11-22T00:07:34.230Z
 generator: Upptime <https://github.com/upptime/upptime>
