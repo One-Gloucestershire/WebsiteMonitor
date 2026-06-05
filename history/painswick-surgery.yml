@@ -1,7 +1,7 @@
 url: https://www.painswicksurgery.nhs.uk/
-status: up
-code: 200
-responseTime: 1363
-lastUpdated: 2026-06-05T13:52:44.169Z
+status: down
+code: 403
+responseTime: 337
+lastUpdated: 2026-06-05T16:58:29.555Z
 startTime: 2025-11-22T00:07:40.166Z
 generator: Upptime <https://github.com/upptime/upptime>
