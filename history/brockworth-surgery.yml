@@ -1,7 +1,7 @@
 url: https://brockworthsurgery.nhs.uk/
-status: up
-code: 200
-responseTime: 452
-lastUpdated: 2026-06-05T01:24:14.360Z
+status: down
+code: 403
+responseTime: 603
+lastUpdated: 2026-06-05T06:41:21.026Z
 startTime: 2025-11-22T00:07:07.852Z
 generator: Upptime <https://github.com/upptime/upptime>
