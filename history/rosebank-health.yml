@@ -1,7 +1,7 @@
 url: https://rosebankhealth.nhs.uk/
-status: down
-code: 403
-responseTime: 434
-lastUpdated: 2026-06-09T08:47:43.722Z
+status: up
+code: 200
+responseTime: 424
+lastUpdated: 2026-06-09T10:06:35.672Z
 startTime: 2025-11-22T00:07:47.995Z
 generator: Upptime <https://github.com/upptime/upptime>
