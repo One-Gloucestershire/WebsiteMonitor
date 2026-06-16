@@ -1,7 +1,7 @@
 url: https://www.blakeneysurgery.nhs.uk/
-status: up
-code: 200
-responseTime: 1555
-lastUpdated: 2026-06-15T23:32:37.416Z
+status: down
+code: 403
+responseTime: 604
+lastUpdated: 2026-06-16T03:48:42.217Z
 startTime: 2025-11-22T00:07:06.703Z
 generator: Upptime <https://github.com/upptime/upptime>
